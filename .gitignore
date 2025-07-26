@@ -1,0 +1,7 @@
+telegram-news-bot-env/
+
+# macOS
+.DS_Store
+
+
+key.env
